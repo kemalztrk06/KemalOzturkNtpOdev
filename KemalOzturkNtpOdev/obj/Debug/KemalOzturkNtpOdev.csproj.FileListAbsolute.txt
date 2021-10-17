@@ -1,0 +1,7 @@
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\bin\Debug\KemalOzturkNtpOdev.exe.config
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\bin\Debug\KemalOzturkNtpOdev.exe
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\bin\Debug\KemalOzturkNtpOdev.pdb
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\obj\Debug\KemalOzturkNtpOdev.csproj.AssemblyReference.cache
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\obj\Debug\KemalOzturkNtpOdev.csproj.CoreCompileInputs.cache
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\obj\Debug\KemalOzturkNtpOdev.exe
+C:\Users\KML\source\repos\KemalOzturkNtpOdev\KemalOzturkNtpOdev\obj\Debug\KemalOzturkNtpOdev.pdb
